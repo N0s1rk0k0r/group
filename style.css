@@ -86,5 +86,23 @@ p{
     font-size:20px;
 }
 .links:hover{
-    background-color:dodgerblue;
+    background-color:do;
+}
+#My_Videos{
+    text-align:center;
+    padding:30px;
+}
+#Work{
+    text-align:center;
+    padding:30px;
+}
+#Writings{
+    text-align:center;
+    padding:30px;
+}
+a{
+    text-decoration:none;
+}
+.article:hover{
+    color:blueviolet;
 }
